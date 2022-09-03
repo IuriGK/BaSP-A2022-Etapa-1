@@ -1,0 +1,70 @@
+html {
+    height: auto;
+    min-height: 100%;
+    color: rgba(55, 56, 103, 1);
+  }
+
+a {
+    color: rgba(55, 56, 103, 1);
+}
+
+html h4 {
+    font-size: x-large;
+}
+
+
+header {
+    display: block;
+    position: top;
+    height: 101px;
+    background-color: rgba(55, 56, 103, 1);
+}
+
+.header-name {
+    float: left;
+}
+
+.header-logos {
+    float: right;
+}
+
+.header-logos img {
+    width: 50px;
+    padding-top: 20px;
+}
+
+.side-bar {
+    position: fixed;
+    margin-left: 15px;
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 17%;
+    background-color: rgba(223, 228, 222, 1);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.side-bar p {
+    font-size: small;
+}
+
+.side-bar address {
+    font-size: smaller;
+}
+
+.side-bar div {
+    padding-top: 10px;
+}
+
+.address img {
+    float: left;
+    padding-top: 20px;
+}
+
+.side-bar img {
+    width: 20px;
+}
+
+main {
+    margin-left: 19%;
+}
